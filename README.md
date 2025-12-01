@@ -4,17 +4,19 @@ A project for leveraging Large Language Models (LLMs) and Retrieval-Augmented Ge
 
 ## Features
 
-- Resume ingestion and parsing using LLMs
-- Retrieval-augmented Q&A over resume datasets
-- Customizable pipelines for resume analysis
+- Resume ingestion and parsing using docling library
+- store vector database on pinecone and using llama-text-embed-v2 for embedding content
+- Retrieval-augmented Q&A over resume by gemma3:4b in ollama with RAG
 - Supports multiple input formats
 
 ## Getting Started
 
 ### Prerequisites
 
-- Python 3.8+
-- [pip](https://pip.pypa.io/en/stable/)
+- Python 3.12+
+- pip install uv
+- uv pip install torch torchvision --index-url [https://download.pytorch.org/whl/cu126](https://pytorch.org/get-started/locally/)
+- GPU nividia
 
 ### Installation
 
@@ -28,7 +30,14 @@ cd LLM_RAG_RESUME
 Install dependencies:
 
 ```bash
-pip install -r requirements.txt
+uv pip install -r requirements.txt
+```
+
+create .env for api key
+```bash
+PINECONE_API_KEY = 
+PINECONE_INDEX_NAME = 
+CHAT_MODEL = gemma3:4b
 ```
 
 ### Usage
@@ -36,7 +45,7 @@ pip install -r requirements.txt
 Run the main script:
 
 ```bash
-python main.py
+python llm_rag.ipynb
 ```
 
 ## Configuration
