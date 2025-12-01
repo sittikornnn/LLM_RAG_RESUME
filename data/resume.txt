@@ -1,0 +1,72 @@
+<!-- image -->
+
+## ABOUT ME
+
+As a recent Artificial Intelligence graduate, I am passionate about developing AI models and leveraging data to solve real-world  problems.  My  project  experience  includes  practical  applications  like  an  exam  test  for  pharmacists  and computer  vision  solutions  for  safety  compliance,  such  as  detecting  helmet  usage.  I  thrive  in  collaborative  team environments, enjoying theoretical discussions on optimizing algorithm selection for practical implementation.
+
+## EDUCATION
+
+Huachiew Chalermprakiet University Bachelor of Artificial Intelligence ( GPAX 3.89 )
+
+## SKILLS
+
+- Programming Languages: Python, JavaScript, TypeScript, HTML, CSS, Shell Script
+- Frameworks &amp; Libraries: YOLO, Hugging Face, Pandas, Scikit-Learn, TensorFlow, PyTorch (CUDA), LangChain, OpenCV, Next.js, React.js, Flask, Pyspark
+- Databases: MySQL, PostgreSQL (via psycopg2)
+- Tools &amp; Platforms: Git, GitHub, VS Code, Canva, Postman, Microsoft 365 (Word, Excel), Power BI, Ollama
+- Languages: Native Thai, Basic Communication English
+
+## EXPERIENCE
+
+## Jan 2025 -  Jun 2025 Final Project - The development of Pharmacist Dispensing Speech Evaluation Module based on Sentence Similarity Final Project
+
+- Collaborated  with  a  two-person  team  to  develop  a  PHARMACIST  DISPENSE  SKILL ASSESSMENT PROGRAM (PDSAS).
+- Integrated the system for deployment to pharmacy faculty, facilitating practical application of the research.
+- Achieved a fine-tuning accuracy of 0.0005 with the paraphrase-multilingual-MiniLM-L12-v2 model, and demonstrated an accuracy of 5.8042 on new datasets.
+- Built  the  system  using  Python,  PostgreSQL,  Flask,  and  Next.js,  leveraging  sentence similarity techniques to compare spoken content against scoring criteria.
+
+## AI Developer intern
+
+Aug 2024 - Nov 2024
+
+- Developed a PPE (Personal Protective Equipment) Detection system, from model training to web application deployment.
+- Trained an AI model using YOLO on a custom dataset, achieving a mAP (mean Average Precision) of 0.868 .
+- Built  and  integrated  a  web  application  with  React  (frontend)  and  Flask  (backend)  to showcase the AI system.
+- Implemented AI processing in the Flask backend, including object detection and person recognition with FaceNet.
+- Explored mobile development concepts using Flutter and Android Studio.
+
+## IOADAY COMPANY LIMITED
+
+## ACTIVITY
+
+- DIY 6 DOF Robot Arm (2023) - Assembled and programmed a 6-Degrees-of-Freedom robot arm using C++ in Arduino IDE for a one-day workshop to teach younger students.
+- From Gen Z to CEO (2023) -  Achieved  Top  500  recognition in a "Gen Z CEO" aptitude test, gaining insights into business aspects like production, logistics, and marketing.
+- Student Committee (2023) -  Managed financial tasks, including collecting receipts for reimbursement of communal funds, and supported various committee activities.
+- Game Jam HCU (2022, 2023) -  Collaborated in a team to develop games within 2-3 days, gaining practical experience with Unity and Godot.
+- MEA Hackathon (2021) - Participated in the event and presented innovative concepts.
+
+## SITTIKORN CHALOEMKITTICHAI
+
+AI Engineer / AI Developer Data scientist / Data analyst
+
+<!-- image -->
+
+<!-- image -->
+
+0616046040
+
+sittikorn720@gmail.com
+
+github
+
+linkedin
+
+Theparak Road, Bang Sao Thong Subdistrict, Bang Sao Thong District, Samut Prakan Province
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+2021 - 2025
