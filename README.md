@@ -5,6 +5,7 @@ A project for leveraging Large Language Models (LLMs) and Retrieval-Augmented Ge
 ## Features
 
 - Resume ingestion and parsing using docling library
+- chucking with ExperimentalMarkdownSyntaxTextSplitter from langchain
 - store vector database on pinecone and using llama-text-embed-v2 for embedding content
 - Retrieval-augmented Q&A over resume by gemma3:4b in ollama with RAG
 - Supports multiple input formats
